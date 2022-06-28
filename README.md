@@ -8,7 +8,12 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://was-coder.github.io/django-crud/)
+
+## Note
+
+- To view the admin page add /admin at the end of the url link
+- To view the blog page add /blog at the end of the url link
 
 ## Style Guides
 
