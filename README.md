@@ -6,6 +6,12 @@
 
 - Python
 
+## Images
+
+![Create Blog](./I4G0028685VH/blog/image/blog1.png)
+![List Blog](./I4G0028685VH/blog/image/blog2.png)
+![Delete Blog](./I4G0028685VH/blog/image/blog3.png)
+
 ## Live Demo
 
 [Live Demo Link](https://was-coder.github.io/django-crud/)
